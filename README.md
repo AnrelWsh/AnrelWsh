@@ -1,4 +1,4 @@
-### Hi there, moi c'est * **Angel** * 👋
+### Hi there, moi c'est *Angel* 👋
 
 <!--
 **AnrelWsh/AnrelWsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
