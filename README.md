@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 * ⚡ A2 Coding and Digital Innovation, __IIM__
 * 🐵 Sinon on est là hein
 * 🤔🤔🤔
+
+Comme on dit 
+> _א ראָללינג שטיין זאמלט קיין מאָך_
