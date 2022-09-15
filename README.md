@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 * 🐵 Sinon on est là hein
 * 🤔🤔🤔
 
-Comme on dit 
-> _א ראָללינג שטיין זאמלט קיין מאָך_
+Comme on dit:
+> _ביסל טשיקאַווע גיין_
