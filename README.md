@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 > _ביסל טשיקאַווע גיין_
 
 Ce que je doit faire                                           |
----------------------                                          
+---------------------                                          |
 - [ ] me lancer en freelance                                   
 - [ ] améliorer mes skills pour pouvoir faire des trucs de fou 
 - [x] rentrer en A2 CDI                                        
