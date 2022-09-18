@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 
 * ⚡ A2 Coding and Digital Innovation, __IIM__
 * 🐵 Secrétaire _Général_ de LeoStunt
-* 🤔🤔🤔
+    * On fait des galipettes 🐒
+* 💯 💯 💯
 
 #### Comme on dit:
 > _ביסל טשיקאַווע גיין_
+
+-----------------
 
 Ce que je doit faire                                           |
 ---------------------                                          |
@@ -28,3 +31,5 @@ Ce que je doit faire                                           |
 - [ ] améliorer mes skills pour pouvoir faire des trucs de fou 
 - [x] rentrer en A2 CDI                                        
 - [ ] finir mon profil...                                      
+
+Streamez du Rilès, c'est une dinguerie [Rilès] (https://www.youtube.com/user/0Riles)
