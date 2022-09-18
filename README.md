@@ -32,4 +32,4 @@ Ce que je doit faire                                           |
 - [x] rentrer en A2 CDI                                        
 - [ ] finir mon profil...                                      
 
-Streamez du Rilès, c'est une dinguerie: [Rilès](https://www.youtube.com/user/0Riles)
+Streamez du Rilès, c'est une dinguerie: [__Chaine de Rilès__](https://www.youtube.com/user/0Riles)
