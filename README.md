@@ -16,8 +16,15 @@ Here are some ideas to get you started:
 -->
 
 * ⚡ A2 Coding and Digital Innovation, __IIM__
-* 🐵 Sinon on est là hein
+* 🐵 Secrétaire _Général_ de LeoStunt
 * 🤔🤔🤔
 
-Comme on dit:
+####Comme on dit:
 > _ביסל טשיקאַווע גיין_
+
+Ce que je doit faire
+---------------------
+- [] me lancer en freelance
+- [] améliorer mes skills pour pouvoir faire des trucs de fou
+- [x] rentrer en A2 CDI
+- [] finir mon profil...
