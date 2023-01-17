@@ -17,6 +17,6 @@ Ce que je doit faire                                           |
 - [ ] me lancer en freelance                                   
 - [ ] améliorer mes skills pour pouvoir faire des trucs de fou 
 - [x] rentrer en A2 CDI                                        
-- [ ] finir mon profil...                                      
+- [ ] trouver un stage et une alternance                                     
 
 Streamez du Rilès, c'est une dinguerie: [__Chaine de Rilès__](https://www.youtube.com/user/0Riles)
