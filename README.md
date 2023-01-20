@@ -21,4 +21,4 @@ Ce que je doit faire                                           |
 
 Streamez du Rilès, c'est une dinguerie: [__Chaine de Rilès__](https://www.youtube.com/user/0Riles)
 
-Me contacter: [__mon LinkedIn__](https://www.linkedin.com/in/angel-hmeli-3122481b3/)
+Me contacter: [__Mon LinkedIn__](https://www.linkedin.com/in/angel-hmeli-3122481b3/)
