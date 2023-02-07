@@ -3,7 +3,7 @@
 * ⚡ A2 Coding and Digital Innovation, __IIM__
 * 🐵 Secrétaire _Général_ de LeoStunt
     * On fait des galipettes 🐒      
-* 🌱 I’m currently learning React                    
+* 🌱 Currently learning React                    
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_aine_jai_eu_el) 
